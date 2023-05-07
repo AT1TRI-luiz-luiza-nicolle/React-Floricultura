@@ -1,2 +1,6 @@
 # React-Floricultura
-Projeto Floricultura 
+
+Integrantes:
+- Luiz Aragão 
+- Luiza Ribeiro
+- Nicolle Américo
