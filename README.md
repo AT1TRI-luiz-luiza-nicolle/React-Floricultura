@@ -1,3 +1,10 @@
+# Comandos
+- npm i
+- npm i bootstrap
+- npm i react-router-dom
+- npm i redux react-redux
+- npm start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
