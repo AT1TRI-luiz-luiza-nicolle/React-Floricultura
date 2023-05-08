@@ -13,11 +13,11 @@ const About = () => {
                         <p> O primeiro passo foi realizar uma pesquisa de mercado abrangente, para identificar as oportunidades e os desafios deste setor. A localização ideal deve ser de fácil acesso para os clientes, e preferencialmente em áreas com grande circulação de pessoas, como centros comerciais, regiões turísticas e áreas residenciais. </p>
                     </div>
                     <div className="col-md-6 d-flex justify-content-center">
-                        <img src="/assets/images/about.png" alt="About Us" height="400px" width="400px" />
+                        <img src="/assets/about.png" alt="About Us" height="400px" width="400px" />
                     </div>
                 </div>
 
-                <div className="row">
+                <div className="row"> 
                     <div className="col-md-6 d-flex justify-content-center">
                         <img src="https://cdn.discordapp.com/attachments/719956666254098446/1104604037384515625/timeempresa.jpg" alt="About Us" height="250px" width="400px" />
                     </div>
